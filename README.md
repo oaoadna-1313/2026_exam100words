@@ -1,4 +1,4 @@
-# 2026 國中段考國注百題卷練習神器 🚀
+﻿# 2026 國中段考國注百題卷練習神器 🚀
 
 > **「只要有心，人人都是國文神！」**  
 > 龍門國中國文科・七年級與八年級 段考國字注音百題大卷暨互動自我特訓系統
@@ -16,13 +16,13 @@
 | 編號 | 年級學期 | 段考別 | 英文檔案代碼 | 範圍與課別 | 題數 | 線上練習神器連結 |
 | :---: | :---: | :---: | :---: | :--- | :---: | :--- |
 | **0** | **全站總覽** | **總目錄首頁** | `index.html` | 收錄全部七年級、八年級段考大卷導覽 | 699 | [🔗 點此開啟總覽首頁](https://oaoadna-1313.github.io/2026_exam100words/index.html) |
-| **1** | 七年級上學期 | 第一次段考 | `exam-7-1-1.html` | 第一課、第三課、自學一（含語文常識一） | 100 題 | [🔗 點此進入 7-1-1 特訓](https://oaoadna-1313.github.io/2026_exam100words/exam-7-1-1.html) |
-| **2** | 七年級上學期 | 第二次段考 | `exam-7-1-2.html` | 第四課～第六課（含語文常識二） | 100 題 | [🔗 點此進入 7-1-2 特訓](https://oaoadna-1313.github.io/2026_exam100words/exam-7-1-2.html) |
-| **3** | 七年級上學期 | 第三次段考 | `exam-7-1-3.html` | 第七課～第九課 | 100 題 | [🔗 點此進入 7-1-3 特訓](https://oaoadna-1313.github.io/2026_exam100words/exam-7-1-3.html) |
-| **4** | 七年級下學期 | 第一次段考 | `exam-7-2-1.html` | 第一課、第三課、自學一 | 100 題 | [🔗 點此進入 7-2-1 特訓](https://oaoadna-1313.github.io/2026_exam100words/exam-7-2-1.html) |
-| **5** | 七年級下學期 | 第二次段考 | `exam-7-2-2.html` | 第四課～第六課 | 100 題 | [🔗 點此進入 7-2-2 特訓](https://oaoadna-1313.github.io/2026_exam100words/exam-7-2-2.html) |
-| **6** | 七年級下學期 | 第三次段考 | `exam-7-2-3.html` | 第七課～第九課 | 99 題 | [🔗 點此進入 7-2-3 特訓](https://oaoadna-1313.github.io/2026_exam100words/exam-7-2-3.html) |
-| **7** | 八年級上學期 | 第一次段考 | `exam-8-1-1.html` | 第一課～第三課（含語文常識一） | 100 題 | [🔗 點此進入 8-1-1 特訓](https://oaoadna-1313.github.io/2026_exam100words/exam-8-1-1.html) |
+| **1** | 七年級上學期 | 第一次段考 | `examwords-7-1-1.html` | 第一課、第三課、自學一（含語文常識一） | 100 題 | [🔗 點此進入 7-1-1 特訓](https://oaoadna-1313.github.io/2026_exam100words/examwords-7-1-1.html) |
+| **2** | 七年級上學期 | 第二次段考 | `examwords-7-1-2.html` | 第四課～第六課（含語文常識二） | 100 題 | [🔗 點此進入 7-1-2 特訓](https://oaoadna-1313.github.io/2026_exam100words/examwords-7-1-2.html) |
+| **3** | 七年級上學期 | 第三次段考 | `examwords-7-1-3.html` | 第七課～第九課 | 100 題 | [🔗 點此進入 7-1-3 特訓](https://oaoadna-1313.github.io/2026_exam100words/examwords-7-1-3.html) |
+| **4** | 七年級下學期 | 第一次段考 | `examwords-7-2-1.html` | 第一課、第三課、自學一 | 100 題 | [🔗 點此進入 7-2-1 特訓](https://oaoadna-1313.github.io/2026_exam100words/examwords-7-2-1.html) |
+| **5** | 七年級下學期 | 第二次段考 | `examwords-7-2-2.html` | 第四課～第六課 | 100 題 | [🔗 點此進入 7-2-2 特訓](https://oaoadna-1313.github.io/2026_exam100words/examwords-7-2-2.html) |
+| **6** | 七年級下學期 | 第三次段考 | `examwords-7-2-3.html` | 第七課～第九課 | 99 題 | [🔗 點此進入 7-2-3 特訓](https://oaoadna-1313.github.io/2026_exam100words/examwords-7-2-3.html) |
+| **7** | 八年級上學期 | 第一次段考 | `examwords-8-1-1.html` | 第一課～第三課（含語文常識一） | 100 題 | [🔗 點此進入 8-1-1 特訓](https://oaoadna-1313.github.io/2026_exam100words/examwords-8-1-1.html) |
 
 ---
 
